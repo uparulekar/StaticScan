@@ -1,6 +1,8 @@
 public class TestScan {
 
    public static void main(String args[]) {
-	System.out.println("Hello World");
+	int a = 0;
+	int dbz = 88/a;
+	System.out.println("Value of dbz: " + dbz);
    }
 }
