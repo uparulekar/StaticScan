@@ -10,4 +10,5 @@ public class TestScan {
 		arr[i] = i;
    	}
 	System.out.println("Array initialized");
+   }
 }
