@@ -5,7 +5,7 @@ public class TestScan {
 	int dbz = 88/a;
 	System.out.println("Value of dbz: " + dbz);
 	   
-	int arr[32];
+	int arr[] = new int[32];
 	for( int i = 0; i < 64; i++ )
 		arr[i] = i;
    	}
